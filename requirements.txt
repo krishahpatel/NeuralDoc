@@ -6,3 +6,4 @@ langchain-huggingface
 langchain-text-splitters
 faiss-cpu
 huggingface-hub
+pypdf
