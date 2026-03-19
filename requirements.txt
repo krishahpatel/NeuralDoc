@@ -1,9 +1,27 @@
 streamlit
 python-dotenv
-langchain-groq
+
+# LangChain ecosystem
+langchain
 langchain-community
+langchain-groq
 langchain-huggingface
 langchain-text-splitters
+
+# Embeddings + ML
+sentence-transformers
+transformers
+torch
+
+# Vector DB
 faiss-cpu
+
+# HuggingFace + APIs
 huggingface-hub
+
+# PDF processing
 pypdf
+
+# Optional but useful
+tqdm
+numpy
